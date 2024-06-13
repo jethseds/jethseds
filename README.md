@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jethro Sedoguio</h1>
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
-<p align="center">
+<p align="">
   <img align="right" src="https://github.com/jethseds/jethseds/blob/main/coffee.gif" alt="Coffee GIF" />
 </p>
 
