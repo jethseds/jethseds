@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jethro Sedoguio</h1>
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
-<p align="">
   <img align="right" src="https://github.com/jethseds/jethseds/blob/main/coffee.gif" alt="Coffee GIF" />
-</p>
+
 
 - 👨‍💻 All of my projects are available at [DevCraft Solutions](https://www.facebook.com/devcraftsolutions2021)
 
