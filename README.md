@@ -3,6 +3,7 @@
 
 <p align="center">
   <img align="right" width="300" height="300" class="centered-image" src="https://github.com/jethseds/jethseds/blob/main/coffee.gif" alt="Coffee GIF" />
+  <br>
 </p>
 
 - 👨‍💻 All of my projects are available at [DevCraft Solutions](https://www.facebook.com/devcraftsolutions2021)
