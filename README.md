@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jethro Sedoguio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jethseds&label=Profile%20views&color=0e75b6&style=flat" alt="jethseds" /> </p>
 
@@ -7,9 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://www.facebook.com/devcraftsolutions2021](https://www.facebook.com/devcraftsolutions2021)
+
+- 💬 Ask me about **react, php, flutter, laravel**
+
+- 📫 How to reach me **jethroaranas367@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G-LmH4_SCcny-tWUnztWzAoWpIw6czTu/view?usp=sharing](https://drive.google.com/file/d/1G-LmH4_SCcny-tWUnztWzAoWpIw6czTu/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/13791540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13791540" height="30" width="40" /></a>
+<a href="https://fb.com/lan.celot.923171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lan.celot.923171" height="30" width="40" /></a>
+<a href="https://www.behance.net/katrending" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="katrending" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
