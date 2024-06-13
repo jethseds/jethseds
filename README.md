@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
 <p align="center">
-  <img align="right" width="300" height="300" style="margin-top: -30px !important;" src="https://github.com/jethseds/jethseds/blob/main/coffee.gif" alt="Coffee GIF" />
+  <img align="right" width="300" height="300" class="centered-image" src="https://github.com/jethseds/jethseds/blob/main/coffee.gif" alt="Coffee GIF" />
 </p>
 
 - 👨‍💻 All of my projects are available at [DevCraft Solutions](https://www.facebook.com/devcraftsolutions2021)
