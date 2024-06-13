@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jethro Sedoguio</h1>
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/devcraftsolutions2021](https://www.facebook.com/devcraftsolutions2021)
+- 👨‍💻 All of my projects are available at [DevCraft Solutions](https://www.facebook.com/devcraftsolutions2021)
 
 - 💬 Ask me about **react, php, flutter, laravel**
 
